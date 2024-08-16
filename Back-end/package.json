@@ -1,0 +1,22 @@
+{
+  "name": "project_blog",
+  "version": "0.0.1",
+  "description": "Full stack blog project with node.js express.js mongoDb and react.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "Under testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshsonwane/full-stack-blog.git"
+  },
+  "author": "harsh sonwane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshsonwane/full-stack-blog/issues"
+  },
+  "homepage": "https://github.com/Harshsonwane/full-stack-blog#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

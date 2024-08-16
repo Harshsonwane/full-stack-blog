@@ -1,0 +1,53 @@
+Objective
+    Create a basic blog application with a list view and a detail view for 
+    blog posts, and deploy it to a cloud platform. This task will assess your 
+    skills in frontend development, backend development, database management, and deployment.
+
+
+Requirements
+    Backend (Choose one: Node.js with Express, Python with Flask, or Ruby on Rails)
+    Set up a RESTful API with the following endpoints:
+    GET /posts (list all posts)
+    GET /posts/:id (get a specific post)
+    POST /posts (create a new post)
+    PUT /posts/:id (update a post)
+    DELETE /posts/:id (delete a post)
+    Implement a simple database model for blog posts using any SQL or NoSQL database
+    Implement basic error handling and input validation
+
+
+Frontend (React, Vue, or Angular)
+    Create a responsive layout with a header, main content area, and footer
+    Implement a list view of blog posts, displaying title and excerpt
+    Implement a detail view for individual blog posts
+    Create a form for adding new blog posts
+    Implement basic client-side form validation
+
+Full Stack Integration
+    Connect the frontend to the backend API
+    Implement proper error handling and loading states
+    Use appropriate state management techniques
+
+Deployment
+    Deploy the full stack application to a cloud platform (e.g., Render, Fly.io, Heroku)
+    Ensure the deployed application is fully functional
+    Provide clear documentation on how to access and use the deployed application
+
+Bonus Points
+    Implement user authentication
+    Add a comment system for blog posts
+    Implement a search functionality
+    Add unit tests for both frontend and backend
+    Set up a CI/CD pipeline for automated deployment
+
+Evaluation Criteria
+    Code quality and organization
+    Proper use of frontend and backend technologies
+    Database design and query efficiency
+    API design and implementation
+    User interface and experience
+    Error handling and edge case management
+    Version control usage (provide a GitHub repository)
+    Successful deployment and application accessibility
+    Quality of deployment documentation and instructions
+
